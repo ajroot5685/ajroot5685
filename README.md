@@ -1,5 +1,5 @@
 ### HI! I'm Jeonggeun!
-- I want to be a Backend developer!
+🧑🏻‍💻 I want to be a Backend developer!
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
