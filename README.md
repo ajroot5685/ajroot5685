@@ -45,6 +45,3 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajroot5685&layout=compact">
-
-<br>
