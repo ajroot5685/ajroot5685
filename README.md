@@ -26,7 +26,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Now Studying 🛠</p>
+	<p>📖 Now Studying 📖</p>
 </div>
 <div align="center">
 	<img alt="Static Badge" src="https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=%23092E20">
