@@ -1,4 +1,4 @@
-### HI! I'm Jeonggeun!
+### Hi there 👋
 🧑🏻‍💻 I want to be a Backend developer!
 
 <div align=center>
