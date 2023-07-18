@@ -2,7 +2,8 @@
 🧑🏻‍💻 I want to be a Backend developer!
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2>
+	<br>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
