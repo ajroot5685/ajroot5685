@@ -37,13 +37,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
 </div>
 <br>
-<div align=center>
-	<p>🎨 SNS 🎨</p>
-</div>
-<div align=center>
-	<img alt="Static Badge" src="https://img.shields.io/badge/stable__root-E4405F?style=flat&logo=instagram&logoColor=ffffff">
-	<br>
-</div>
+
 <div align=center>
 	<br>
 
