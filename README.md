@@ -46,6 +46,9 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajroot5685&layout=compact">
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajroot5685&layout=compact">  
+ 
+[![ajroot5685's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajroot5685)](https://github.com/ajroot5685/github-readme-stats)
 
 <br>
