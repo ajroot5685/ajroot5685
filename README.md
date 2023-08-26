@@ -16,6 +16,7 @@
 	<img alt="Static Badge" src="https://img.shields.io/badge/Python-white?logo=python&logoColor=white&color=%233776AB">
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-white?logo=kotlin&logoColor=white&color=%237F52FF">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=%23092E20">
 </div>
 <br>
 <div align=center>
@@ -33,7 +34,6 @@
 	<p>📖 Now Studying 📖</p>
 </div>
 <div align="center">
-	<img alt="Static Badge" src="https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=%23092E20">
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
 </div>
 <br>
