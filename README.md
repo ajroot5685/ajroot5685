@@ -35,6 +35,8 @@
 </div>
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white&color=%2361DAFB">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&color=%23339933">
 </div>
 <br>
 
