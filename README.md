@@ -4,9 +4,9 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
-	<p>✨ Platforms & Languages ✨</p>
+<!-- 	<p>✨ Platforms & Languages ✨</p> -->
 </div>
-<div align="center">
+<!-- <div align="center">
 	<img alt="Static Badge" src="https://img.shields.io/badge/Java-%23E60000?logo=condaforge&logoColor=white&color=%23E60000">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -28,14 +28,13 @@
 	<br>
     <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white&color=%233DDC84">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
+</div> -->
 <br>
 <div align=center>
 	<p>📖 Now Studying 📖</p>
 </div>
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
-    <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white&color=%2361DAFB">
     <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&color=%23339933">
 </div>
 <br>
