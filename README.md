@@ -44,3 +44,5 @@
 [![ajroot5685's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajroot5685)](https://github.com/ajroot5685/github-readme-stats)
 
 <br>
+
+![아무것도 안했는데](https://github.com/ajroot5685/ajroot5685/assets/55906796/0ca035b4-76c5-4730-92e8-439b1c03e57e)
