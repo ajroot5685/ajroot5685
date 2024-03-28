@@ -1,5 +1,5 @@
 ### 안녕하세요. 근입니다.
-**백엔드, 제가 한번 도전해보겠습니다. 쯔앗!**
+**Backend is too difficult, Don't do this**
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -10,9 +10,11 @@
 	<img alt="Static Badge" src="https://img.shields.io/badge/Java-%23E60000?logo=condaforge&logoColor=white&color=%23E60000">
 	<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white&color=%23F7DF1E">
 	<br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-white?logo=c%2B%2B&logoColor=white&color=%2300599C">
+    	<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-white?logo=c%2B%2B&logoColor=white&color=%2300599C">
 	<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-white?logo=kotlin&logoColor=white&color=%237F52FF">
 	<img alt="Static Badge" src="https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=%23092E20">
+	<br>
+    	<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&color=%23339933">
 </div>
 <!-- <br>
 <div align=center>
@@ -32,7 +34,21 @@
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
     <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-%236DB33F?logo=springboot&logoColor=white&color=%236DB33F">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&color=%23339933">
+</div>
+<br>
+<div align=center>
+	<p>🔥 Experience goals for this year 🔥</p>
+</div>
+<div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?logo=springsecurity&logoColor=white&color=%236DB33F">
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Mongodb-%236DB33F?logo=mongodb&logoColor=white&color=%2347A248">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Cassandra-%236DB33F?logo=apachecassandra&logoColor=white&color=%231287B1">
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kafka-white?logo=apachekafka&logoColor=white&color=%23231F20">
+    <img alt="Static Badge" src="https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq&logoColor=white&color=%23FF6600">
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-white?logo=kubernetes&logoColor=white&color=%23326CE5">
 </div>
 <br>
 
