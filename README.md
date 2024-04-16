@@ -55,7 +55,7 @@
 <div align=center>
 	<br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrms5685)](https://solved.ac/wjdrms565)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrms5685)](https://solved.ac/wjdrms5685)
  
 [![ajroot5685's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajroot5685)](https://github.com/ajroot5685/github-readme-stats)
 
