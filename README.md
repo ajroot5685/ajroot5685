@@ -34,18 +34,19 @@
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%236DB33F">
     <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-%236DB33F?logo=springboot&logoColor=white&color=%236DB33F">
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?logo=springsecurity&logoColor=white&color=%236DB33F">
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kafka-white?logo=apachekafka&logoColor=white&color=%23231F20">
 </div>
 <br>
 <div align=center>
 	<p>🔥 Experience goals for this year 🔥</p>
 </div>
 <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/SpringSecurity-%236DB33F?logo=springsecurity&logoColor=white&color=%236DB33F">
-    <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%236DB33F?logo=mongodb&logoColor=white&color=%2347A248">
     <img alt="Static Badge" src="https://img.shields.io/badge/Cassandra-%236DB33F?logo=apachecassandra&logoColor=white&color=%231287B1">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Kafka-white?logo=apachekafka&logoColor=white&color=%23231F20">
     <img alt="Static Badge" src="https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq&logoColor=white&color=%23FF6600">
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-white?logo=kubernetes&logoColor=white&color=%23326CE5">
