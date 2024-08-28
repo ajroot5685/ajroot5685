@@ -45,6 +45,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%236DB33F?logo=mongodb&logoColor=white&color=%2347A248">
     <img alt="Static Badge" src="https://img.shields.io/badge/Cassandra-%236DB33F?logo=apachecassandra&logoColor=white&color=%231287B1">
     <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Redis-%236DB33F?logo=redis&logoColor=white&color=%23FF4438">
+    <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/Kafka-white?logo=apachekafka&logoColor=white&color=%23231F20">
     <img alt="Static Badge" src="https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq&logoColor=white&color=%23FF6600">
     <br>
