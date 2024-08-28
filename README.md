@@ -48,7 +48,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Kafka-white?logo=apachekafka&logoColor=white&color=%23231F20">
     <img alt="Static Badge" src="https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq&logoColor=white&color=%23FF6600">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-white?logo=kubernetes&logoColor=white&color=%23326CE5">
+<!--     <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-white?logo=kubernetes&logoColor=white&color=%23326CE5"> -->
 </div>
 <br>
 
