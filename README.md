@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=18&duration=2000&pause=500&color=00B104&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=Stay+hungry,+stay+foolish.+Steve+Jobs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=18&duration=2000&pause=500&color=00B104&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=Stay+hungry,+stay+foolish.+-Steve+Jobs)](https://git.io/typing-svg)
 
 <img src="https://github.com/user-attachments/assets/08d54f73-7f60-442f-b4c1-049cd4a1e35e" height="300" alt="thinking"  />
 
