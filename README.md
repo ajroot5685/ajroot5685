@@ -6,49 +6,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=24&duration=1&pause=1&color=3B3B3B&vCenter=true&multiline=true&repeat=false&width=435&lines=Main+Skills)](https://git.io/typing-svg)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql&theme=light)](https://skillicons.dev)
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=24&duration=1&pause=1&color=3B3B3B&vCenter=true&multiline=true&repeat=false&width=435&lines=Tried+Skills)](https://git.io/typing-svg)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,kafka)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,grafana&theme=light)](https://skillicons.dev)
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=24&duration=1&pause=1&color=3B3B3B&vCenter=true&multiline=true&repeat=false&width=435&lines=Skills+to+Explore+%F0%9F%91%80)](https://git.io/typing-svg)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=redis,kafka,rabbitmq)](https://skillicons.dev)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=14&duration=1&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=435&lines=Etc.+MicroService%2C+Multi-Module%2C+Spring+Cloud%2C+Spring+Batch..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=14&duration=1&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=435&lines=Etc.+MicroService%2C+Multi-Module%2C+gRPC%2C+Spring+Cloud%2C+Spring+Batch..)](https://git.io/typing-svg)
