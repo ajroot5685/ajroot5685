@@ -24,4 +24,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=redis,kafka,rabbitmq)](https://skillicons.dev)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=14&duration=1&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=435&lines=Etc.+MicroService%2C+Multi-Module%2C+gRPC%2C+Spring+Cloud%2C+Spring+Batch..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=14&duration=1&pause=1&color=000000&vCenter=true&multiline=true&repeat=false&width=435&lines=Etc.+MicroService%2C+Multi-Module%2C+gRPC%2C+Spring+Cloud%2C+Spring+Batch)](https://git.io/typing-svg)
